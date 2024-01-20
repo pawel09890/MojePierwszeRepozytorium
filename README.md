@@ -1,1 +1,2 @@
 # MojePierwszeRepozytorium
+Utworzenie pierwszego brancha
